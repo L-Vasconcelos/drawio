@@ -181,7 +181,7 @@
         <mxCell id="dc3D4ihON-B3OL0L-lSN-77" edge="1" parent="1" source="dc3D4ihON-B3OL0L-lSN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dc3D4ihON-B3OL0L-lSN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dc3D4ihON-B3OL0L-lSN-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#b0e3e6;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#0e8088;" value="Validação" vertex="1">
+        <mxCell id="dc3D4ihON-B3OL0L-lSN-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#b0e3e6;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#0e8088;" value="Validação planejado" vertex="1">
           <mxGeometry height="80" width="170" x="370" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="dc3D4ihON-B3OL0L-lSN-11" parent="dc3D4ihON-B3OL0L-lSN-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Validar todos os custos entre previsto e realizado" vertex="1">
