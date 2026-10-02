@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="fbQ_1wNz4QhRzl-oJ0y5">
-    <mxGraphModel dx="1471" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,6 +101,9 @@
         <mxCell id="l3Ejha4r6ZPgQY2v429B-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Recebimento com ok do setor de compras" vertex="1">
           <mxGeometry height="60" width="120" x="580" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="ostXW2Yh4pnwYjqZF_JI-2" edge="1" parent="1" source="l3Ejha4r6ZPgQY2v429B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ostXW2Yh4pnwYjqZF_JI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l3Ejha4r6ZPgQY2v429B-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" value="Verificar avaria e tirar foto" vertex="1">
           <mxGeometry height="80" width="80" x="600" y="910" as="geometry" />
         </mxCell>
@@ -136,6 +139,15 @@
         </mxCell>
         <mxCell id="xoCvBrkeprow3Jt4sHBo-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Não" vertex="1">
           <mxGeometry height="60" width="70" x="220" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="ostXW2Yh4pnwYjqZF_JI-5" edge="1" parent="1" source="ostXW2Yh4pnwYjqZF_JI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ostXW2Yh4pnwYjqZF_JI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ostXW2Yh4pnwYjqZF_JI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Subs planilha atual para lançamento nf" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="ostXW2Yh4pnwYjqZF_JI-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Prazo fiscal para lançamento 2 dias úteis após recebimento" vertex="1">
+          <mxGeometry height="110" width="110" x="180" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
